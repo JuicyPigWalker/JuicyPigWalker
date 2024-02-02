@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @yoelci
-- 👀 I’m interested in maritime and electronics, specially Arduino.
-- 🌱 I’m currently learning Arduino and electronics.
+- 👋 Hi, I’m @yoelci. I am proficient in maritime technologies and maintenance.
+- 👀 I’m interested in electronics, specially Arduino and Flipper Zero.
+- 🌱 I’m currently learning with the help of my Flipper Zero.
 - 💞️ I’m looking to collaborate on a useful project someday, like manning a non-profit hospital ship.
 - 📫 How to reach me: just send me a private message.
 
