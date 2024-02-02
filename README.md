@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yoelci. I am proficient in maritime technologies and maintenance.
+- 👋 Hi, I’m @JuicyPigWalker. I am proficient in maritime technologies and maintenance.
 - 👀 I’m interested in electronics, specially Arduino and Flipper Zero.
 - 🌱 I’m currently learning with the help of my Flipper Zero.
 - 💞️ I’m looking to collaborate on a useful project someday, like manning a non-profit hospital ship.
